@@ -55,8 +55,8 @@
         "invalid_file_type": "Invalid file type"
     },
     "messages": {
-        "welcome": "Welcome to ValueCell",
-        "goodbye": "Thank you for using ValueCell",
+        "welcome": "Welcome to Monnaire FinAgent",
+        "goodbye": "Thank you for using Monnaire FinAgent",
         "data_saved": "Data has been saved successfully",
         "data_deleted": "Data has been deleted successfully",
         "operation_failed": "Operation failed. Please try again.",
@@ -101,10 +101,10 @@
         "trillion": "T"
     },
     "app": {
-        "name": "ValueCell",
+        "name": "Monnaire FinAgent",
         "description": "A community-driven, multi-agent platform for financial applications",
         "version": "Version {version}",
-        "copyright": "© {year} ValueCell. All rights reserved."
+        "copyright": "© {year} Monnaire FinAgent. All rights reserved."
     },
     "settings": {
         "language": "Language",

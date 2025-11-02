@@ -8,7 +8,7 @@ import StockSearchModal from "./components/stock-search-modal";
 export default function HomeLayout() {
   return (
     <div className="flex flex-1 flex-col gap-4 overflow-hidden bg-gray-100 py-4 pr-4 pl-2">
-      <h1 className="font-medium text-3xl">👋 Welcome to ValueCell !</h1>
+      <h1 className="font-medium text-3xl">👋 Welcome to Monnaire FinAgent !</h1>
 
       <div className="flex flex-1 gap-3 overflow-hidden">
         <main className="h-full flex-1 overflow-hidden rounded-lg">

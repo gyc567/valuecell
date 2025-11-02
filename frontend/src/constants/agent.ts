@@ -104,15 +104,15 @@ export const AGENT_AVATAR_MAP: Record<string, string> = {
 
 export const VALUECELL_AGENT: AgentInfo = {
   agent_name: "ValueCellAgent",
-  display_name: "ValueCell Agent",
+  display_name: "Monnaire FinAgent",
   enabled: true,
   description:
-    "ValueCell Agent is a super-agent that can help you manage different agents and tasks",
+    "Monnaire FinAgent is a super-agent that can help you manage different agents and tasks",
   created_at: TimeUtils.nowUTC().toISOString(),
   updated_at: TimeUtils.nowUTC().toISOString(),
   agent_metadata: {
     version: "1.0.0",
-    author: "ValueCell",
+    author: "Monnaire FinAgent",
     tags: ["valuecell", "super-agent"],
   },
 };

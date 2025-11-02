@@ -55,8 +55,8 @@
         "invalid_file_type": "无效的文件类型"
     },
     "messages": {
-        "welcome": "欢迎使用ValueCell",
-        "goodbye": "感谢您使用ValueCell",
+        "welcome": "欢迎使用Monnaire FinAgent",
+        "goodbye": "感谢您使用Monnaire FinAgent",
         "data_saved": "数据已成功保存",
         "data_deleted": "数据已成功删除",
         "operation_failed": "操作失败，请重试",
@@ -101,10 +101,10 @@
         "trillion": "万亿"
     },
     "app": {
-        "name": "ValueCell",
+        "name": "Monnaire FinAgent",
         "description": "社区驱动的多智能体金融应用平台",
         "version": "版本 {version}",
-        "copyright": "© {year} ValueCell. 保留所有权利。"
+        "copyright": "© {year} Monnaire FinAgent. 保留所有权利。"
     },
     "settings": {
         "language": "语言",
